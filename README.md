@@ -11,7 +11,7 @@ Haremos el paso a paso en clases, pero dejo acá las indicaciones como respaldo.
 Para el trabajo con PDFs, primero instala tesseract en Google Colab:
 
 ```
-!sudo apt install tesseract-ocr-spa
+!apt install tesseract-ocr-spa
 ```
 
 Esa línea de código instalará el modelo para español (y el para inglés, que queda instalado por defecto). Puedes chequear que está todo en orden ejecutando lo siguiente
@@ -39,7 +39,7 @@ Luego, para convertir un audio a texto, necesitarás instalar lo siguiente:
 ```
 !pip install setuptools-rust 
 !pip install -U openai-whisper
-!sudo apt update && sudo apt install ffmpeg
+!apt update && sudo apt install ffmpeg
 ```
 
 (La línea de rust es importante si estás trabajando en tu computador personal. Si estás en Google Colab no es necesario). 
