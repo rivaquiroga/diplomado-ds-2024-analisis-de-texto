@@ -60,7 +60,28 @@ Hacia el final de la sesión hablaremos brevemente del potencial que tienen los 
 
 ## Actividades 
 
-pronto...
+### Ejercicio 1: extracción de texto de archivos en formato PDF
+
+:page_facing_up: [Código escrito en clases]()
+
+📖 [PDF escaneado](https://www.dropbox.com/scl/fi/yy9894lex6zf6sbyyj2yv/amanda_labarca.pdf?rlkey=03xplf67hh9gh5ffjfizs3h7m&dl=0)
+
+✍️ [PDF nativo](https://www.dropbox.com/scl/fi/kiwtke3zbkel1etcee51h/historia_python.pdf?rlkey=16oiuxjx7eliyn9165u1by9sj&dl=0)
+
+
+### Ejercicio 2: "speech-to-text"
+
+:page_facing_up: [Código escrito en clases]()
+
+🎤 [Audio de prueba]()
+
+### Ejercicio 3: Discutir algunas cosas sobre preprocesamiento de texto
+ 
+:page_facing_up: [Código escrito en clases]()
+
+### Ejercicio 4: Probando LLMs
+
+:page_facing_up: [Código escrito en clases]()
 
 ## Recursos adicionales
 
