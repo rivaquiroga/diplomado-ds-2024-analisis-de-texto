@@ -62,7 +62,7 @@ Hacia el final de la sesión hablaremos brevemente del potencial que tienen los 
 
 ### Ejercicio 1: extracción de texto de archivos en formato PDF
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/47pkmu8hg2bvb5rf4khr6/01_extraccion-pdfs.py?rlkey=e56d4k1djdplckjxawbsd8f7h&st=arjzpc4y&dl=0)
 
 📖 [PDF escaneado](https://www.dropbox.com/scl/fi/yy9894lex6zf6sbyyj2yv/amanda_labarca.pdf?rlkey=03xplf67hh9gh5ffjfizs3h7m&dl=0)
 
@@ -71,17 +71,17 @@ Hacia el final de la sesión hablaremos brevemente del potencial que tienen los 
 
 ### Ejercicio 2: "speech-to-text"
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/nw78epjuw2ulis7149k4t/02_speech-to-text.py?rlkey=52ldwa73ory7wa48yjve50sju&st=1rntx4ln&dl=0)
 
 🎤 [Audio de prueba]()
 
 ### Ejercicio 3: Discutir algunas cosas sobre preprocesamiento de texto
  
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/a7vjlqifx1v9tq628ejwx/03_sobre-preprocesamiento.py?rlkey=3t8tw0acvhbst2d7gev7qwenk&st=hlo2fbzf&dl=0)
 
 ### Ejercicio 4: Probando LLMs
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://colab.research.google.com/drive/1I-xIX2p5fsD9jKOcArrz1LLazbdgSFUe)
 
 ## Recursos adicionales
 
