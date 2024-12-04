@@ -72,7 +72,7 @@ Hacia el final de la sesión hablaremos brevemente del potencial que tienen los 
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/nw78epjuw2ulis7149k4t/02_speech-to-text.py?rlkey=52ldwa73ory7wa48yjve50sju&st=1rntx4ln&dl=0)
 
-🎤 [Audio de prueba]()
+🎤 [Audio de prueba](https://www.dropbox.com/scl/fi/ru89plsyypoxkto7ghna6/audio-ejemplo.m4a?rlkey=8vdn22m9ob5gn03dircgpt2ie&st=fagxfd9r&dl=0)
 
 ### Ejercicio 3: Discutir algunas cosas sobre preprocesamiento de texto
  
