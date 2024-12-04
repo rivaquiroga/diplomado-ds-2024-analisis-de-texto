@@ -112,3 +112,5 @@ Ojo que Poppler requiere tener permisos de administración del dispositivo para 
 ### En R
 El año pasado el diplomado contemplaba tres clases sobre análisis de texto usando R. Los materiales están disponibles [en este repositorio](https://github.com/rivaquiroga/analisis-de-textos-r-2023). Además del código escrito en clases, hay enlaces a recursos adicionales para seguir profundizando.
 
+### Para explorar: usar LLMs de modo local en un dataframe
+Recientemente apareció _mall_, una librería de Python y Paquete de R que permite trabajar localmente con Ollama y que está pensada en casos en que tenemos nuestros datos en un dataframe: https://mlverse.github.io/mall/. 
