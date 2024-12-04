@@ -54,7 +54,7 @@ En la segunda parte de la clase, discutiremos algunas nociones vinculadas al pre
 !python -m spacy download es_core_news_sm
 ```
 
-Hacia el final de la sesión hablaremos brevemente del potencial que tienen los grandes modelos de lenguaje (LLM) para resolver tareas de análisis de texto. Vamos a ejemplificar con el plan gratuito de Google Gemini, pero para el futuro ten en cuenta que ese plan no asegura la privacidad de los datos.
+Hacia el final de la sesión hablaremos brevemente del potencial que tienen los grandes modelos de lenguaje (LLM) para resolver tareas de análisis de texto. Vamos a ejemplificar con [el plan gratuito de Google Gemini](https://aistudio.google.com/app/apikey), pero para el futuro ten en cuenta que ese plan no asegura la privacidad de los datos (y solo permite 15 requests por minuto).
 
 
 
