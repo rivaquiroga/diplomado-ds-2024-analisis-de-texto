@@ -1,6 +1,6 @@
 # Análisis de texto con Python
 
-En esta clase del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) nos aproximaremos al análisis de textos usando Python. Abordaremos algunas técnicas que se enmarcan en lo que usualmente se denomina _Minería de texto_ y otras propias del _Procesamiento del Lenguaje Natural_.). Como tenemos una sola clase para cubrir estos temas, será algo más bien introductorio que les permita luego seguir explorando por su cuenta.
+En esta clase del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) nos aproximaremos al análisis de textos usando Python. Abordaremos algunas técnicas que se enmarcan en lo que usualmente se denomina _Minería de texto_ y otras propias del _Procesamiento del Lenguaje Natural_. Como tenemos una sola clase para cubrir estos temas, será algo más bien introductorio que les permita luego seguir explorando por su cuenta.
 
 
 ## Preparación
@@ -83,5 +83,6 @@ Si trabajas en tu computador, puedes revisar la forma de instalación que corres
 Las librerías para trabajar con archivos PDF requieren tener instalada una herramienta llamada Poppler. Si al tratar de usar pdf2image o tesseract te aparece un error relativo a Poppler, significa que tienes que instalarlo. Puedes encontrar indicaciones sonre cómo hacerlo [en la documentación de pdf2image](https://pdf2image.readthedocs.io/en/latest/installation.html#installing-poppler). En el caso de Windows, hay que descargarlo directamente [desde el repositorio de GitHub](https://github.com/oschwartz10612/poppler-windows/releases/tag/v24.08.0-0).
 Ojo que Poppler requiere tener permisos de administración del dispositivo para su instalación, por lo que si estás trabajando en el computador de tu institución puede que no sea posible instalarlo directamente. 
 
-
+### En R
+El año pasado el diplomado contemplaba tres clases sobre análisis de texto usando R. Los materiales están disponibles [en este repositorio](https://github.com/rivaquiroga/analisis-de-textos-r-2023). Además del código escrito en clases, hay enlaces a recursos adicionales para seguir profundizando.
 
