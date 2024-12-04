@@ -54,12 +54,8 @@ En la segunda parte de la clase, discutiremos algunas nociones vinculadas al pre
 !python -m spacy download es_core_news_sm
 ```
 
-Hacia el final de la sesión hablaremos brevemente del potencial que tienen los grandes modelos de lenguaje (LLM) para resolver tareas de análisis de texto. En particular, hablaremos del formato en que tenemos que pedir las respuestas para que luego nos sirvan. Vamos a ejemplificar con la API de OpenAI, así que si tienes la posibilidad de crearte una cuenta en esa plataforma sería ideal. De todos modos, tendremos un plan B para quienes no puedan hacerlo. Para esa parte de la sesión necesitarás tener instalado lo siguiente:
+Hacia el final de la sesión hablaremos brevemente del potencial que tienen los grandes modelos de lenguaje (LLM) para resolver tareas de análisis de texto. Vamos a ejemplificar con el plan gratuito de Google Gemini, pero para el futuro ten en cuenta que ese plan no asegura la privacidad de los datos.
 
-```
-!pip install pandas
-!pip install openai
-```
 
 
 ## Actividades 
