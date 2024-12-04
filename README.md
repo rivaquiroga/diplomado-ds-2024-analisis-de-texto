@@ -1,7 +1,6 @@
 # Análisis de texto con Python
 
-En esta clase del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) nos aproximaremos al análisis de textos usando Python. Abordaremos algunas técnicas que se enmarcan en lo que usualmente se denomina _Minería de texto_ y otras propias del _Procesamiento del Lenguaje Natural_. Como tenemos una sola clase para cubrir estos temas, será algo más bien introductorio que les permita luego seguir explorando por su cuenta.
-
+En esta clase del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) nos aproximaremos al análisis de textos usando Python. Como tenemos una sola clase para cubrir estos temas, será algo más bien introductorio que les permita luego seguir explorando por su cuenta.
 
 ## Preparación
 
@@ -84,6 +83,8 @@ Hacia el final de la sesión hablaremos brevemente del potencial que tienen los 
 :page_facing_up: [Código escrito en clases](https://colab.research.google.com/drive/1I-xIX2p5fsD9jKOcArrz1LLazbdgSFUe)
 
 ## Recursos adicionales
+
+En esta sección agregaremos más recursos a partir de lo que indiquen en nuestro documento compartido respecto de sus intereses.
 
 ### Documentación librerías utilizadas
 
